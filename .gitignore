@@ -1,3 +1,9 @@
 .Rproj.user
 .Rhistory
 .RData
+.csv
+IdLookupTable.csv
+SampleSubmission.csv
+test.csv
+training.csv
+data.Rd
